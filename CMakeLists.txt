@@ -27,4 +27,4 @@ add_subdirectory(lib/JUCE)
 
 # Add the plugin code
 add_subdirectory(src)
-add_subdirectory(benchmark) # Uncomment after we add the benchmark project
+add_subdirectory(benchmark)
